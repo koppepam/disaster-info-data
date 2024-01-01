@@ -1,0 +1,1723 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="ja">
+  <title>高頻度（地震火山）</title>
+  <subtitle>JMAXML publishing feed</subtitle>
+  <updated>2024-01-01T20:53:23+09:00</updated>
+  <id>https://www.data.jma.go.jp/developer/xml/feed/eqvol.xml#short_1704110003</id>
+  <link rel="related" href="https://www.jma.go.jp/"/>
+  <link rel="self" href="https://www.data.jma.go.jp/developer/xml/feed/eqvol.xml"/>
+  <link rel="hub" href="http://alert-hub.appspot.com/"/>
+  <rights type="html"><![CDATA[
+<a href="https://www.jma.go.jp/jma/kishou/info/coment.html">利用規約</a>,
+<a href="https://www.jma.go.jp/jma/en/copyright.html">Terms of Use</a>
+]]></rights>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101115315_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T11:53:14Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101115315_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日２０時５０分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101114454_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T11:44:54Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101114454_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日２０時４２分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>津波情報a</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101114028_0_VTSE51_010000.xml</id>
+    <updated>2024-01-01T11:40:27Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101114028_0_VTSE51_010000.xml"/>
+    <content type="text">【津波観測に関する情報】　１日２０時３４分現在の、津波の観測値をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101113853_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T11:38:52Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101113853_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日２０時３５分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震度速報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101113711_0_VXSE51_010000.xml</id>
+    <updated>2024-01-01T11:37:10Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101113711_0_VXSE51_010000.xml"/>
+    <content type="text">【震度速報】　１日２０時３５分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101113518_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T11:35:18Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101113518_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日２０時３２分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101113129_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T11:31:29Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101113129_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日２０時２７分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>津波情報a</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101113047_0_VTSE51_010000.xml</id>
+    <updated>2024-01-01T11:30:47Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101113047_0_VTSE51_010000.xml"/>
+    <content type="text">【各地の満潮時刻・津波到達予想時刻に関する情報】各地の満潮時刻と津波到達予想時刻をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>津波警報・注意報・予報a</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101113006_0_VTSE41_010000.xml</id>
+    <updated>2024-01-01T11:30:06Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101113006_0_VTSE41_010000.xml"/>
+    <content type="text">【津波警報・津波注意報・津波予報】津波警報に切り替えました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101112808_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T11:28:07Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101112808_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日２０時２５分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101112413_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T11:24:12Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101112413_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日２０時２１分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震度速報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101112311_0_VXSE51_010000.xml</id>
+    <updated>2024-01-01T11:23:10Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101112311_0_VXSE51_010000.xml"/>
+    <content type="text">【震度速報】　１日２０時２１分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101111948_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T11:19:48Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101111948_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日２０時１６分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101110835_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T11:08:35Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101110835_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日２０時０６分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>津波情報a</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101110639_0_VTSE51_010000.xml</id>
+    <updated>2024-01-01T11:06:39Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101110639_0_VTSE51_010000.xml"/>
+    <content type="text">【津波観測に関する情報】　１日２０時０５分現在の、津波の観測値をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101110402_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T11:04:02Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101110402_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日２０時０１分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>降灰予報（定時）</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101110030_0_VFVO53_010000.xml</id>
+    <updated>2024-01-01T11:00:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101110030_0_VFVO53_010000.xml"/>
+    <content type="text">【火山名　浅間山　降灰予報（定時）】　現在、浅間山は噴火警戒レベル２（火口周辺規制）です。浅間山で噴火が発生した場合には、１日２１時から２４時までは火口から北東方向、２日０９時から１２時までは火口から北東方向に降灰が予想されます。</content>
+  </entry>
+  <entry>
+    <title>降灰予報（定時）</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101110035_0_VFVO53_010000.xml</id>
+    <updated>2024-01-01T11:00:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101110035_0_VFVO53_010000.xml"/>
+    <content type="text">【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、１日２１時から２４時までは火口から北方向、２日０９時から１２時までは火口から東方向に降灰が予想されます。</content>
+  </entry>
+  <entry>
+    <title>降灰予報（定時）</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101110039_0_VFVO53_010000.xml</id>
+    <updated>2024-01-01T11:00:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101110039_0_VFVO53_010000.xml"/>
+    <content type="text">【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、１日２１時から２４時までは火口から北方向、２日０９時から１２時までは火口から北東方向に降灰が予想されます。</content>
+  </entry>
+  <entry>
+    <title>降灰予報（定時）</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101110042_0_VFVO53_010000.xml</id>
+    <updated>2024-01-01T11:00:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101110042_0_VFVO53_010000.xml"/>
+    <content type="text">【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル３（入山規制）です。口永良部島で噴火が発生した場合には、１日２１時から２４時までは火口から北東方向、２日０９時から１２時までは火口から東方向に降灰が予想されます。</content>
+  </entry>
+  <entry>
+    <title>降灰予報（定時）</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101110045_0_VFVO53_010000.xml</id>
+    <updated>2024-01-01T11:00:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101110045_0_VFVO53_010000.xml"/>
+    <content type="text">【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、１日２１時から２４時までは火口から南西方向、２日０９時から１２時までは火口から東方向に降灰が予想されます。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101105924_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T10:59:24Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101105924_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１９時５６分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101105343_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T10:53:43Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101105343_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１９時５０分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震度速報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101105155_0_VXSE51_010000.xml</id>
+    <updated>2024-01-01T10:51:54Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101105155_0_VXSE51_010000.xml"/>
+    <content type="text">【震度速報】　１日１９時５０分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101104125_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T10:41:25Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101104125_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１９時３８分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>津波情報a</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101103952_0_VTSE51_010000.xml</id>
+    <updated>2024-01-01T10:39:52Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101103952_0_VTSE51_010000.xml"/>
+    <content type="text">【津波観測に関する情報】　１日１９時３８分現在の、津波の観測値をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101103744_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T10:37:44Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101103744_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１９時３４分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101103314_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T10:33:14Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101103314_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１９時２９分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101103056_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T10:30:56Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101103056_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１９時２８分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震度速報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101102938_0_VXSE51_010000.xml</id>
+    <updated>2024-01-01T10:29:36Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101102938_0_VXSE51_010000.xml"/>
+    <content type="text">【震度速報】　１日１９時２８分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101102845_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T10:28:45Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101102845_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１９時２６分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>津波情報a</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101101910_0_VTSE51_010000.xml</id>
+    <updated>2024-01-01T10:19:10Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101101910_0_VTSE51_010000.xml"/>
+    <content type="text">【津波観測に関する情報】　１日１９時１８分現在の、津波の観測値をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>津波情報a</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101101317_0_VTSE51_010000.xml</id>
+    <updated>2024-01-01T10:13:16Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101101317_0_VTSE51_010000.xml"/>
+    <content type="text">【津波観測に関する情報】　１日１９時１１分現在の、津波の観測値をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101100943_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T10:09:42Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101100943_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１９時０５分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>津波情報a</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101100552_0_VTSE51_010000.xml</id>
+    <updated>2024-01-01T10:05:52Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101100552_0_VTSE51_010000.xml"/>
+    <content type="text">【津波観測に関する情報】　１日１９時０４分現在の、津波の観測値をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101100318_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T10:03:17Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101100318_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１９時００分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震度速報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101100208_0_VXSE51_010000.xml</id>
+    <updated>2024-01-01T10:02:07Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101100208_0_VXSE51_010000.xml"/>
+    <content type="text">【震度速報】　１日１９時００分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101095912_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T09:59:12Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101095912_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１８時５６分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101095652_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T09:56:52Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101095652_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１８時５３分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101095550_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T09:55:50Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101095550_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１８時５２分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101095151_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T09:51:51Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101095151_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１８時４９分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>津波情報a</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101095107_0_VTSE51_010000.xml</id>
+    <updated>2024-01-01T09:51:07Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101095107_0_VTSE51_010000.xml"/>
+    <content type="text">【津波観測に関する情報】　１日１８時４９分現在の、津波の観測値をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101094930_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T09:49:29Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101094930_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１８時４５分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101094656_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T09:46:55Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101094656_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１８時４４分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>津波情報a</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101094349_0_VTSE51_010000.xml</id>
+    <updated>2024-01-01T09:43:49Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101094349_0_VTSE51_010000.xml"/>
+    <content type="text">【津波観測に関する情報】　１日１８時４２分現在の、津波の観測値をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101094331_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T09:43:31Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101094331_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１８時４０分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震度速報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101094204_0_VXSE51_010000.xml</id>
+    <updated>2024-01-01T09:42:03Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101094204_0_VXSE51_010000.xml"/>
+    <content type="text">【震度速報】　１日１８時４０分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101093702_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T09:37:02Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101093702_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１８時３３分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101093350_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T09:33:50Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101093350_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１８時３０分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>津波情報a</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101093329_0_VTSE51_010000.xml</id>
+    <updated>2024-01-01T09:33:29Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101093329_0_VTSE51_010000.xml"/>
+    <content type="text">【津波観測に関する情報】　１日１８時３１分現在の、津波の観測値をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震度速報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101093208_0_VXSE51_010000.xml</id>
+    <updated>2024-01-01T09:32:07Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101093208_0_VXSE51_010000.xml"/>
+    <content type="text">【震度速報】　１日１８時３０分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>津波情報a</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101092912_0_VTSE51_010000.xml</id>
+    <updated>2024-01-01T09:29:11Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101092912_0_VTSE51_010000.xml"/>
+    <content type="text">【津波観測に関する情報】　１日１８時２８分現在の、津波の観測値をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101092738_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T09:27:38Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101092738_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１８時２５分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>津波情報a</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101092713_0_VTSE51_010000.xml</id>
+    <updated>2024-01-01T09:27:13Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101092713_0_VTSE51_010000.xml"/>
+    <content type="text">【津波観測に関する情報】　１日１８時２５分現在の、津波の観測値をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震度速報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101092701_0_VXSE51_010000.xml</id>
+    <updated>2024-01-01T09:27:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101092701_0_VXSE51_010000.xml"/>
+    <content type="text">【震度速報】　１日１８時２５分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101092551_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T09:25:51Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101092551_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１８時２３分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101092422_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T09:24:22Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101092422_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１８時２１分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>津波情報a</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101091751_0_VTSE51_010000.xml</id>
+    <updated>2024-01-01T09:17:51Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101091751_0_VTSE51_010000.xml"/>
+    <content type="text">【津波観測に関する情報】　１日１８時１６分現在の、津波の観測値をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101091711_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T09:17:11Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101091711_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１８時１４分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>長周期地震動に関する観測情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101091652_0_VXSE62_010000.xml</id>
+    <updated>2024-01-01T09:16:51Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101091652_0_VXSE62_010000.xml"/>
+    <content type="text">【長周期地震動に関する観測情報】０１日１８時０８分ころの地震により、長周期地震動階級２を観測した地域があります。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101091137_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T09:11:37Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101091137_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１８時０８分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震度速報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101091009_0_VXSE51_010000.xml</id>
+    <updated>2024-01-01T09:10:08Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101091009_0_VXSE51_010000.xml"/>
+    <content type="text">【震度速報】　１日１８時０８分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震度速報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101090954_0_VXSE51_010000.xml</id>
+    <updated>2024-01-01T09:09:53Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101090954_0_VXSE51_010000.xml"/>
+    <content type="text">【震度速報】　１日１８時０８分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101090850_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T09:08:50Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101090850_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１８時０６分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>津波情報a</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101090831_0_VTSE51_010000.xml</id>
+    <updated>2024-01-01T09:08:30Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101090831_0_VTSE51_010000.xml"/>
+    <content type="text">【津波観測に関する情報】　１日１８時０７分現在の、津波の観測値をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101090726_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T09:07:26Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101090726_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１８時０３分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震度速報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101090632_0_VXSE51_010000.xml</id>
+    <updated>2024-01-01T09:06:31Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101090632_0_VXSE51_010000.xml"/>
+    <content type="text">【震度速報】　１日１８時０３分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震度速報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101090532_0_VXSE51_010000.xml</id>
+    <updated>2024-01-01T09:05:31Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101090532_0_VXSE51_010000.xml"/>
+    <content type="text">【震度速報】　１日１８時０３分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>長周期地震動に関する観測情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101090225_0_VXSE62_010000.xml</id>
+    <updated>2024-01-01T09:02:24Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101090225_0_VXSE62_010000.xml"/>
+    <content type="text">【長周期地震動に関する観測情報】０１日１７時５３分ころの地震により、長周期地震動階級１を観測した地域があります。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101090036_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T09:00:36Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101090036_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１７時５６分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101085714_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T08:57:14Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101085714_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１７時５３分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>津波情報a</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101085649_0_VTSE51_010000.xml</id>
+    <updated>2024-01-01T08:56:49Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101085649_0_VTSE51_010000.xml"/>
+    <content type="text">【津波観測に関する情報】　１日１７時５５分現在の、津波の観測値をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>津波情報a</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101085309_0_VTSE51_010000.xml</id>
+    <updated>2024-01-01T08:53:09Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101085309_0_VTSE51_010000.xml"/>
+    <content type="text">【津波観測に関する情報】　１日１７時５１分現在の、津波の観測値をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101085151_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T08:51:51Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101085151_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１７時４８分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震度速報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101085014_0_VXSE51_010000.xml</id>
+    <updated>2024-01-01T08:50:12Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101085014_0_VXSE51_010000.xml"/>
+    <content type="text">【震度速報】　１日１７時４８分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>津波情報a</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101084957_0_VTSE51_010000.xml</id>
+    <updated>2024-01-01T08:49:57Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101084957_0_VTSE51_010000.xml"/>
+    <content type="text">【津波観測に関する情報】　１日１７時４８分現在の、津波の観測値をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>津波情報a</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101084718_0_VTSE51_010000.xml</id>
+    <updated>2024-01-01T08:47:18Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101084718_0_VTSE51_010000.xml"/>
+    <content type="text">【津波観測に関する情報】　１日１７時４５分現在の、津波の観測値をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>津波情報a</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101084325_0_VTSE51_010000.xml</id>
+    <updated>2024-01-01T08:43:25Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101084325_0_VTSE51_010000.xml"/>
+    <content type="text">【津波観測に関する情報】　１日１７時４１分現在の、津波の観測値をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101084226_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T08:42:26Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101084226_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１７時３９分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>津波情報a</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101084005_0_VTSE51_010000.xml</id>
+    <updated>2024-01-01T08:40:05Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101084005_0_VTSE51_010000.xml"/>
+    <content type="text">【津波観測に関する情報】　１日１７時３９分現在の、津波の観測値をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>噴火に関する火山観測報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101083606_0_VFVO52_400000.xml</id>
+    <updated>2024-01-01T08:36:05Z</updated>
+    <author>
+      <name>福岡管区気象台　鹿児島地方気象台</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101083606_0_VFVO52_400000.xml"/>
+    <content type="text">【火山名　諏訪之瀬島　噴火に関する火山観測報】火　　山：諏訪之瀬島
+日　　時：2024年01月01日17時24分（010824UTC）
+現　　象：噴火</content>
+  </entry>
+  <entry>
+    <title>推定噴煙流向報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101083640_0_VFVO60_010000.xml</id>
+    <updated>2024-01-01T08:36:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101083640_0_VFVO60_010000.xml"/>
+    <content type="text">【諏訪之瀬島　推定噴煙流向報】</content>
+  </entry>
+  <entry>
+    <title>津波情報a</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101083418_0_VTSE51_010000.xml</id>
+    <updated>2024-01-01T08:34:18Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101083418_0_VTSE51_010000.xml"/>
+    <content type="text">【津波観測に関する情報】　１日１７時３３分現在の、津波の観測値をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101083209_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T08:32:09Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101083209_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１７時２９分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101082622_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T08:26:22Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101082622_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１７時２０分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101082536_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T08:25:36Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101082536_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１７時２２分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>津波情報a</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101082403_0_VTSE51_010000.xml</id>
+    <updated>2024-01-01T08:24:03Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101082403_0_VTSE51_010000.xml"/>
+    <content type="text">【津波観測に関する情報】　１日１７時２３分現在の、津波の観測値をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震度速報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101082354_0_VXSE51_010000.xml</id>
+    <updated>2024-01-01T08:23:53Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101082354_0_VXSE51_010000.xml"/>
+    <content type="text">【震度速報】　１日１７時２２分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>津波情報a</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101082207_0_VTSE51_010000.xml</id>
+    <updated>2024-01-01T08:22:07Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101082207_0_VTSE51_010000.xml"/>
+    <content type="text">【津波観測に関する情報】　１日１７時２１分現在の、津波の観測値をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101082144_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T08:21:44Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101082144_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１７時１８分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101082023_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T08:20:23Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101082023_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１７時１７分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震度速報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101081931_0_VXSE51_010000.xml</id>
+    <updated>2024-01-01T08:19:30Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101081931_0_VXSE51_010000.xml"/>
+    <content type="text">【震度速報】　１日１７時１７分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>津波情報a</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101081441_0_VTSE51_010000.xml</id>
+    <updated>2024-01-01T08:14:41Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101081441_0_VTSE51_010000.xml"/>
+    <content type="text">【津波観測に関する情報】　１日１７時１３分現在の、津波の観測値をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101081002_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T08:10:02Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101081002_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１７時０７分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>津波情報a</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101080931_0_VTSE51_010000.xml</id>
+    <updated>2024-01-01T08:09:31Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101080931_0_VTSE51_010000.xml"/>
+    <content type="text">【津波観測に関する情報】　１日１７時０８分現在の、津波の観測値をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101080545_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T08:05:45Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101080545_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１７時０２分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>長周期地震動に関する観測情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101080522_0_VXSE62_010000.xml</id>
+    <updated>2024-01-01T08:05:21Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101080522_0_VXSE62_010000.xml"/>
+    <content type="text">【長周期地震動に関する観測情報】０１日１６時５６分ころの地震により、長周期地震動階級２を観測した地域があります。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101080010_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T08:00:10Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101080010_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１６時５６分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>降灰予報（定時）</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101080041_0_VFVO53_010000.xml</id>
+    <updated>2024-01-01T08:00:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101080041_0_VFVO53_010000.xml"/>
+    <content type="text">【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル３（入山規制）です。口永良部島で噴火が発生した場合には、１日２１時から２４時までは火口から北東方向、２日０９時から１２時までは火口から東方向に降灰が予想されます。</content>
+  </entry>
+  <entry>
+    <title>降灰予報（定時）</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101080034_0_VFVO53_010000.xml</id>
+    <updated>2024-01-01T08:00:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101080034_0_VFVO53_010000.xml"/>
+    <content type="text">【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、１日２１時から２４時までは火口から北東方向、２日０９時から１２時までは火口から東方向に降灰が予想されます。</content>
+  </entry>
+  <entry>
+    <title>降灰予報（定時）</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101080030_0_VFVO53_010000.xml</id>
+    <updated>2024-01-01T08:00:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101080030_0_VFVO53_010000.xml"/>
+    <content type="text">【火山名　浅間山　降灰予報（定時）】　現在、浅間山は噴火警戒レベル２（火口周辺規制）です。浅間山で噴火が発生した場合には、１日２１時から２４時までは火口から北東方向、２日０９時から１２時までは火口から北東方向に降灰が予想されます。</content>
+  </entry>
+  <entry>
+    <title>降灰予報（定時）</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101080038_0_VFVO53_010000.xml</id>
+    <updated>2024-01-01T08:00:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101080038_0_VFVO53_010000.xml"/>
+    <content type="text">【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、１日２１時から２４時までは火口から北西方向、２日０９時から１２時までは火口から北方向に降灰が予想されます。</content>
+  </entry>
+  <entry>
+    <title>降灰予報（定時）</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101080045_0_VFVO53_010000.xml</id>
+    <updated>2024-01-01T08:00:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101080045_0_VFVO53_010000.xml"/>
+    <content type="text">【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、１日２１時から２４時までは火口から南西方向、２日０９時から１２時までは火口から南東方向に降灰が予想されます。</content>
+  </entry>
+  <entry>
+    <title>震度速報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101075925_0_VXSE51_010000.xml</id>
+    <updated>2024-01-01T07:59:24Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101075925_0_VXSE51_010000.xml"/>
+    <content type="text">【震度速報】　１日１６時５６分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>津波情報a</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101075907_0_VTSE51_010000.xml</id>
+    <updated>2024-01-01T07:59:06Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101075907_0_VTSE51_010000.xml"/>
+    <content type="text">【津波観測に関する情報】　１日１６時５７分現在の、津波の観測値をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震度速報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101075825_0_VXSE51_010000.xml</id>
+    <updated>2024-01-01T07:58:24Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101075825_0_VXSE51_010000.xml"/>
+    <content type="text">【震度速報】　１日１６時５６分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101075451_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T07:54:51Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101075451_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１６時５１分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101075111_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T07:51:11Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101075111_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１６時４８分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震度速報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101074938_0_VXSE51_010000.xml</id>
+    <updated>2024-01-01T07:49:37Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101074938_0_VXSE51_010000.xml"/>
+    <content type="text">【震度速報】　１日１６時４５分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101074927_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T07:49:27Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101074927_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１６時４５分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震度速報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101074738_0_VXSE51_010000.xml</id>
+    <updated>2024-01-01T07:47:37Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101074738_0_VXSE51_010000.xml"/>
+    <content type="text">【震度速報】　１日１６時４５分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101074559_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T07:45:59Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101074559_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１６時４２分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>津波情報a</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101074453_0_VTSE51_010000.xml</id>
+    <updated>2024-01-01T07:44:52Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101074453_0_VTSE51_010000.xml"/>
+    <content type="text">【津波観測に関する情報】　１日１６時４４分現在の、津波の観測値をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101074318_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T07:43:18Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101074318_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１６時３９分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震度速報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101074238_0_VXSE51_010000.xml</id>
+    <updated>2024-01-01T07:42:37Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101074238_0_VXSE51_010000.xml"/>
+    <content type="text">【震度速報】　１日１６時３９分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震度速報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101074138_0_VXSE51_010000.xml</id>
+    <updated>2024-01-01T07:41:37Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101074138_0_VXSE51_010000.xml"/>
+    <content type="text">【震度速報】　１日１６時３９分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>津波情報a</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101074105_0_VTSE51_010000.xml</id>
+    <updated>2024-01-01T07:41:04Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101074105_0_VTSE51_010000.xml"/>
+    <content type="text">【津波観測に関する情報】　１日１６時４０分現在の、津波の観測値をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101074013_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T07:40:13Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101074013_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１６時３５分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>津波情報a</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101073907_0_VTSE51_010000.xml</id>
+    <updated>2024-01-01T07:39:07Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101073907_0_VTSE51_010000.xml"/>
+    <content type="text">【津波観測に関する情報】　１日１６時３７分現在の、津波の観測値をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101073609_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T07:36:09Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101073609_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１６時３２分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>津波情報a</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101073529_0_VTSE51_010000.xml</id>
+    <updated>2024-01-01T07:35:29Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101073529_0_VTSE51_010000.xml"/>
+    <content type="text">【津波観測に関する情報】　１日１６時３５分現在の、津波の観測値をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>噴火に関する火山観測報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101073518_0_VFVO52_400000.xml</id>
+    <updated>2024-01-01T07:35:17Z</updated>
+    <author>
+      <name>福岡管区気象台　鹿児島地方気象台</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101073518_0_VFVO52_400000.xml"/>
+    <content type="text">【火山名　諏訪之瀬島　噴火に関する火山観測報】火　　山：諏訪之瀬島
+日　　時：2024年01月01日16時27分（010727UTC）
+現　　象：噴火</content>
+  </entry>
+  <entry>
+    <title>推定噴煙流向報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101073552_0_VFVO60_010000.xml</id>
+    <updated>2024-01-01T07:35:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101073552_0_VFVO60_010000.xml"/>
+    <content type="text">【諏訪之瀬島　推定噴煙流向報】</content>
+  </entry>
+  <entry>
+    <title>震度速報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101073428_0_VXSE51_010000.xml</id>
+    <updated>2024-01-01T07:34:27Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101073428_0_VXSE51_010000.xml"/>
+    <content type="text">【震度速報】　１日１６時３２分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101073322_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T07:33:22Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101073322_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１６時２９分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101072952_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T07:29:51Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101072952_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１６時２３分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>津波情報a</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101072901_0_VTSE51_010000.xml</id>
+    <updated>2024-01-01T07:29:01Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101072901_0_VTSE51_010000.xml"/>
+    <content type="text">【津波観測に関する情報】　１日１６時２７分現在の、津波の観測値をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>長周期地震動に関する観測情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101072858_0_VXSE62_010000.xml</id>
+    <updated>2024-01-01T07:28:58Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101072858_0_VXSE62_010000.xml"/>
+    <content type="text">【長周期地震動に関する観測情報】０１日１６時１８分ころの地震により、長周期地震動階級２を観測した地域があります。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101072429_0_VXSE53_010000.xml</id>
+    <updated>2024-01-01T07:24:29Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101072429_0_VXSE53_010000.xml"/>
+    <content type="text">【震源・震度情報】　１日１６時１０分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>長周期地震動に関する観測情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101072337_0_VXSE62_010000.xml</id>
+    <updated>2024-01-01T07:23:36Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101072337_0_VXSE62_010000.xml"/>
+    <content type="text">【長周期地震動に関する観測情報】０１日１６時１０分ころの地震により、長周期地震動階級４を観測した地域があります。
+以下の地域では、最大震度は４以下でしたが、大きな長周期地震動階級（階級３以上）を観測しています。
+高層ビル高層階では非常に大きな揺れとなっていた可能性があります。
+長野県中部</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101072306_0_VXSE53_270000.xml</id>
+    <updated>2024-01-01T07:23:06Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101072306_0_VXSE53_270000.xml"/>
+    <content type="text">【震源・震度情報】　１日１６時１８分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>津波情報a</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101072302_0_VTSE51_010000.xml</id>
+    <updated>2024-01-01T07:23:02Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101072302_0_VTSE51_010000.xml"/>
+    <content type="text">【各地の満潮時刻・津波到達予想時刻に関する情報】各地の満潮時刻と津波到達予想時刻をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>津波警報・注意報・予報a</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101072233_0_VTSE41_010000.xml</id>
+    <updated>2024-01-01T07:22:32Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101072233_0_VTSE41_010000.xml"/>
+    <content type="text">【大津波警報・津波警報・津波注意報・津波予報】大津波警報・津波警報に切り替えました。
+ただちに避難してください。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101071649_0_VXSE53_010000.xml</id>
+    <updated>2024-01-01T07:16:48Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101071649_0_VXSE53_010000.xml"/>
+    <content type="text">【震源・震度情報】　１日１６時１０分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>長周期地震動に関する観測情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101071546_0_VXSE62_010000.xml</id>
+    <updated>2024-01-01T07:15:45Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101071546_0_VXSE62_010000.xml"/>
+    <content type="text">【長周期地震動に関する観測情報】０１日１６時０６分ころの地震により、長周期地震動階級２を観測した地域があります。</content>
+  </entry>
+  <entry>
+    <title>震度速報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101071457_0_VXSE51_010000.xml</id>
+    <updated>2024-01-01T07:14:56Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101071457_0_VXSE51_010000.xml"/>
+    <content type="text">【震度速報】　１日１６時１０分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震度速報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101071442_0_VXSE51_010000.xml</id>
+    <updated>2024-01-01T07:14:41Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101071442_0_VXSE51_010000.xml"/>
+    <content type="text">【震度速報】　１日１６時１０分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震度速報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101071342_0_VXSE51_010000.xml</id>
+    <updated>2024-01-01T07:13:41Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101071342_0_VXSE51_010000.xml"/>
+    <content type="text">【震度速報】　１日１６時１０分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震度速報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101071328_0_VXSE51_010000.xml</id>
+    <updated>2024-01-01T07:13:26Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101071328_0_VXSE51_010000.xml"/>
+    <content type="text">【震度速報】　１日１６時１０分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>津波情報a</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101071324_0_VTSE51_010000.xml</id>
+    <updated>2024-01-01T07:13:24Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101071324_0_VTSE51_010000.xml"/>
+    <content type="text">【各地の満潮時刻・津波到達予想時刻に関する情報】各地の満潮時刻と津波到達予想時刻をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>津波警報・注意報・予報a</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101071254_0_VTSE41_010000.xml</id>
+    <updated>2024-01-01T07:12:54Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101071254_0_VTSE41_010000.xml"/>
+    <content type="text">【津波警報・津波注意報・津波予報】津波警報を発表しました。
+ただちに避難してください。</content>
+  </entry>
+  <entry>
+    <title>震度速報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101071227_0_VXSE51_010000.xml</id>
+    <updated>2024-01-01T07:12:26Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101071227_0_VXSE51_010000.xml"/>
+    <content type="text">【震度速報】　１日１６時１０分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震度速報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101071157_0_VXSE51_010000.xml</id>
+    <updated>2024-01-01T07:11:56Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101071157_0_VXSE51_010000.xml"/>
+    <content type="text">【震度速報】　１日１６時１０分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震度速報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101071142_0_VXSE51_010000.xml</id>
+    <updated>2024-01-01T07:11:41Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101071142_0_VXSE51_010000.xml"/>
+    <content type="text">【震度速報】　１日１６時１０分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101071005_0_VXSE53_010000.xml</id>
+    <updated>2024-01-01T07:10:04Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101071005_0_VXSE53_010000.xml"/>
+    <content type="text">【震源・震度情報】　１日１６時０６分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震度速報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101070841_0_VXSE51_010000.xml</id>
+    <updated>2024-01-01T07:08:40Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101070841_0_VXSE51_010000.xml"/>
+    <content type="text">【震度速報】　１日１６時０６分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>震源に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101070831_0_VXSE52_010000.xml</id>
+    <updated>2024-01-01T07:08:31Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101070831_0_VXSE52_010000.xml"/>
+    <content type="text">【震源に関する情報】きょう　１日１６時０６分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震度速報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101070741_0_VXSE51_010000.xml</id>
+    <updated>2024-01-01T07:07:40Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101070741_0_VXSE51_010000.xml"/>
+    <content type="text">【震度速報】　１日１６時０６分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>火山の状況に関する解説情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101070217_0_VFVO51_400000.xml</id>
+    <updated>2024-01-01T07:02:14Z</updated>
+    <author>
+      <name>福岡管区気象台　鹿児島地方気象台</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101070217_0_VFVO51_400000.xml"/>
+    <content type="text">【火山名  諏訪之瀬島  火山の状況に関する解説情報】＜火口周辺警報（噴火警戒レベル２、火口周辺規制）が継続＞
+　令和５年１２月２５日から令和６年１月１日１５時までの諏訪之瀬島の活動状況をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>火山の状況に関する解説情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101070152_0_VFVO51_400000.xml</id>
+    <updated>2024-01-01T07:01:49Z</updated>
+    <author>
+      <name>福岡管区気象台　鹿児島地方気象台</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101070152_0_VFVO51_400000.xml"/>
+    <content type="text">【火山名  口永良部島  火山の状況に関する解説情報】＜火口周辺警報（噴火警戒レベル３、入山規制）が継続＞
+　令和５年１２月２９日から令和６年１月１日１５時までの口永良部島の活動状況をお知らせします。火山活動が高まった状態であることから、新岳及び古岳の火口やその周辺において噴火が発生する可能性があります。</content>
+  </entry>
+  <entry>
+    <title>火山の状況に関する解説情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101070127_0_VFVO51_400000.xml</id>
+    <updated>2024-01-01T07:01:24Z</updated>
+    <author>
+      <name>福岡管区気象台　鹿児島地方気象台</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101070127_0_VFVO51_400000.xml"/>
+    <content type="text">【火山名  薩摩硫黄島  火山の状況に関する解説情報】＜火口周辺警報（噴火警戒レベル２、火口周辺規制）が継続＞
+　令和５年１２月２５日から令和６年１月１日１５時までの薩摩硫黄島の活動状況をお知らせします。</content>
+  </entry>
+  <entry>
+    <title>火山の状況に関する解説情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101070035_0_VFVO51_400000.xml</id>
+    <updated>2024-01-01T07:00:32Z</updated>
+    <author>
+      <name>福岡管区気象台　鹿児島地方気象台</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101070035_0_VFVO51_400000.xml"/>
+    <content type="text">【火山名  桜島  火山の状況に関する解説情報】＜火口周辺警報（噴火警戒レベル３、入山規制）が継続＞
+　令和５年１２月２９日から令和６年１月１日１５時までの桜島の活動状況をお知らせします。南岳山頂火口及び昭和火口から１ｋｍを超えて飛散する大きな噴石や小規模な火砕流を伴う噴火が発生するおそれがあります。</content>
+  </entry>
+  <entry>
+    <title>火山の状況に関する解説情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101070007_0_VFVO51_010000.xml</id>
+    <updated>2024-01-01T07:00:04Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101070007_0_VFVO51_010000.xml"/>
+    <content type="text">【火山名  浅間山  火山の状況に関する解説情報】＜火口周辺警報（噴火警戒レベル２、火口周辺規制）が継続＞
+　令和５年１２月２９日から令和６年１月１日１５時までの浅間山の火山活動状況についてお知らせします。引き続き、山頂火口から概ね２ｋｍの範囲では、大きな噴石や火砕流に警戒してください。</content>
+  </entry>
+  <entry>
+    <title>降灰予報（詳細）</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101063235_0_VFVO55_010000.xml</id>
+    <updated>2024-01-01T06:32:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101063235_0_VFVO55_010000.xml"/>
+    <content type="text">【火山名　諏訪之瀬島　降灰予報（詳細）】　０１日２１時までに十島村では少量の降灰があり、降灰は鹿児島県十島村まで予想されます。</content>
+  </entry>
+  <entry>
+    <title>降灰予報（速報）</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101062236_0_VFVO54_010000.xml</id>
+    <updated>2024-01-01T06:22:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101062236_0_VFVO54_010000.xml"/>
+    <content type="text">【火山名　諏訪之瀬島　降灰予報（速報）】　１時間以内に十島村ではやや多量の降灰があり、降灰は鹿児島県十島村まで予想されます。
+　また、火口から南西方向およそ１ｋｍまでの範囲では、小さな噴石が風に流されて降るおそれがあります。</content>
+  </entry>
+  <entry>
+    <title>噴火に関する火山観測報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101062118_0_VFVO52_400000.xml</id>
+    <updated>2024-01-01T06:21:17Z</updated>
+    <author>
+      <name>福岡管区気象台　鹿児島地方気象台</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101062118_0_VFVO52_400000.xml"/>
+    <content type="text">【火山名　諏訪之瀬島　噴火に関する火山観測報】火　　山：諏訪之瀬島
+日　　時：2024年01月01日15時12分（010612UTC）
+現　　象：噴火</content>
+  </entry>
+  <entry>
+    <title>推定噴煙流向報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101062151_0_VFVO60_010000.xml</id>
+    <updated>2024-01-01T06:21:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101062151_0_VFVO60_010000.xml"/>
+    <content type="text">【諏訪之瀬島　推定噴煙流向報】</content>
+  </entry>
+  <entry>
+    <title>推定噴煙流向報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101051709_0_VFVO60_010000.xml</id>
+    <updated>2024-01-01T05:17:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101051709_0_VFVO60_010000.xml"/>
+    <content type="text">【諏訪之瀬島　推定噴煙流向報】</content>
+  </entry>
+  <entry>
+    <title>噴火に関する火山観測報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101051636_0_VFVO52_400000.xml</id>
+    <updated>2024-01-01T05:16:34Z</updated>
+    <author>
+      <name>福岡管区気象台　鹿児島地方気象台</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101051636_0_VFVO52_400000.xml"/>
+    <content type="text">【火山名　諏訪之瀬島　噴火に関する火山観測報】火　　山：諏訪之瀬島
+日　　時：2024年01月01日14時08分（010508UTC）
+現　　象：噴火</content>
+  </entry>
+  <entry>
+    <title>降灰予報（定時）</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101050030_0_VFVO53_010000.xml</id>
+    <updated>2024-01-01T05:00:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101050030_0_VFVO53_010000.xml"/>
+    <content type="text">【火山名　浅間山　降灰予報（定時）】　現在、浅間山は噴火警戒レベル２（火口周辺規制）です。浅間山で噴火が発生した場合には、１日２１時から２４時までは火口から北東方向に降灰が予想されます。</content>
+  </entry>
+  <entry>
+    <title>降灰予報（定時）</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101050041_0_VFVO53_010000.xml</id>
+    <updated>2024-01-01T05:00:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101050041_0_VFVO53_010000.xml"/>
+    <content type="text">【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル３（入山規制）です。口永良部島で噴火が発生した場合には、１日２１時から２４時までは火口から南西方向に降灰が予想されます。</content>
+  </entry>
+  <entry>
+    <title>降灰予報（定時）</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101050034_0_VFVO53_010000.xml</id>
+    <updated>2024-01-01T05:00:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101050034_0_VFVO53_010000.xml"/>
+    <content type="text">【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、１日２１時から２４時までは火口から北東方向に降灰が予想されます。</content>
+  </entry>
+  <entry>
+    <title>降灰予報（定時）</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101050038_0_VFVO53_010000.xml</id>
+    <updated>2024-01-01T05:00:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101050038_0_VFVO53_010000.xml"/>
+    <content type="text">【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、１日２１時から２４時までは火口から北西方向に降灰が予想されます。</content>
+  </entry>
+  <entry>
+    <title>降灰予報（定時）</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101050045_0_VFVO53_010000.xml</id>
+    <updated>2024-01-01T05:00:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101050045_0_VFVO53_010000.xml"/>
+    <content type="text">【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、１日２１時から２４時までは火口から南西方向に降灰が予想されます。</content>
+  </entry>
+  <entry>
+    <title>降灰予報（定時）</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101020039_0_VFVO53_010000.xml</id>
+    <updated>2024-01-01T02:00:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101020039_0_VFVO53_010000.xml"/>
+    <content type="text">【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、１日２１時から２４時までは火口から西方向に降灰が予想されます。</content>
+  </entry>
+  <entry>
+    <title>降灰予報（定時）</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101020046_0_VFVO53_010000.xml</id>
+    <updated>2024-01-01T02:00:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101020046_0_VFVO53_010000.xml"/>
+    <content type="text">【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、１日２１時から２４時までは火口から南西方向に降灰が予想されます。</content>
+  </entry>
+  <entry>
+    <title>降灰予報（定時）</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101020035_0_VFVO53_010000.xml</id>
+    <updated>2024-01-01T02:00:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101020035_0_VFVO53_010000.xml"/>
+    <content type="text">【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、１日２１時から２４時までは火口から北東方向に降灰が予想されます。</content>
+  </entry>
+  <entry>
+    <title>降灰予報（定時）</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101020030_0_VFVO53_010000.xml</id>
+    <updated>2024-01-01T02:00:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101020030_0_VFVO53_010000.xml"/>
+    <content type="text">【火山名　浅間山　降灰予報（定時）】　現在、浅間山は噴火警戒レベル２（火口周辺規制）です。浅間山で噴火が発生した場合には、１日２１時から２４時までは火口から北東方向に降灰が予想されます。</content>
+  </entry>
+  <entry>
+    <title>降灰予報（定時）</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101020042_0_VFVO53_010000.xml</id>
+    <updated>2024-01-01T02:00:00Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101020042_0_VFVO53_010000.xml"/>
+    <content type="text">【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル３（入山規制）です。口永良部島で噴火が発生した場合には、１日２１時から２４時までは火口から西方向に降灰が予想されます。</content>
+  </entry>
+</feed>
