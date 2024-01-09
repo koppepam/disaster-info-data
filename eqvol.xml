@@ -12,6 +12,26 @@
 <a href="https://www.jma.go.jp/jma/en/copyright.html">Terms of Use</a>
 ]]></rights>
   <entry>
+    <title>台風の暴風域に入る確率</title>
+    <id>https://www.gpvweather.com/jmaxml-view.php?k=%E5%8F%B0%E9%A2%A8%E3%81%AE%E6%9A%B4%E9%A2%A8%E5%9F%9F%E3%81%AB%E5%85%A5%E3%82%8B%E7%A2%BA%E7%8E%87&p=%E6%B0%97%E8%B1%A1%E5%BA%81&ym=2023-09&f=2023-09-03T06%3A48%3A06-20230903065230_0_VPTA52_010000.xml</id>
+    <updated>2023-12-18T03:50:00+09:00</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.gpvweather.com/jmaxml-view.php?k=%E5%8F%B0%E9%A2%A8%E3%81%AE%E6%9A%B4%E9%A2%A8%E5%9F%9F%E3%81%AB%E5%85%A5%E3%82%8B%E7%A2%BA%E7%8E%87&p=%E6%B0%97%E8%B1%A1%E5%BA%81&ym=2023-09&f=2023-09-03T06%3A48%3A06-20230903065230_0_VPTA52_010000.xml"/>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title>台風の暴風域に入る確率</title>
+    <id>https://www.gpvweather.com/jmaxml-view.php?k=%E5%8F%B0%E9%A2%A8%E3%81%AE%E6%9A%B4%E9%A2%A8%E5%9F%9F%E3%81%AB%E5%85%A5%E3%82%8B%E7%A2%BA%E7%8E%87&p=%E6%B0%97%E8%B1%A1%E5%BA%81&ym=2023-08&f=2023-08-14T12%3A53%3A08-20230814125630_0_VPTA50_010000.xml</id>
+    <updated>2023-08-14T21:55:00+09:00</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.gpvweather.com/jmaxml-view.php?k=%E5%8F%B0%E9%A2%A8%E3%81%AE%E6%9A%B4%E9%A2%A8%E5%9F%9F%E3%81%AB%E5%85%A5%E3%82%8B%E7%A2%BA%E7%8E%87&p=%E6%B0%97%E8%B1%A1%E5%BA%81&ym=2023-08&f=2023-08-14T12%3A53%3A08-20230814125630_0_VPTA50_010000.xml"/>
+    <content type="text"></content>
+  </entry>
+  <entry>
     <title>震源・震度に関する情報</title>
     <id>https://www.data.jma.go.jp/developer/xml/data/20240101115315_0_VXSE53_270000.xml</id>
     <updated>2024-01-01T11:53:14Z</updated>
