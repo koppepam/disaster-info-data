@@ -13,12 +13,12 @@
 ]]></rights>
   <entry>
     <title>台風の暴風域に入る確率</title>
-    <id>`https://www.gpvweather.com/jmaxml-view.php?k=%E5%8F%B0%E9%A2%A8%E3%81%AE%E6%9A%B4%E9%A2%A8%E5%9F%9F%E3%81%AB%E5%85%A5%E3%82%8B%E7%A2%BA%E7%8E%87&p=%E6%B0%97%E8%B1%A1%E5%BA%81&ym=2023-09&f=2023-09-03T06%3A48%3A06-20230903065230_0_VPTA52_010000.xml`</id>
+    <id>https%3A%2F%2Fwww.gpvweather.com%2Fjmaxml-view.php%3Fk%3D%E5%8F%B0%E9%A2%A8%E3%81%AE%E6%9A%B4%E9%A2%A8%E5%9F%9F%E3%81%AB%E5%85%A5%E3%82%8B%E7%A2%BA%E7%8E%87%26p%3D%E6%B0%97%E8%B1%A1%E5%BA%81%26ym%3D2023-09%26f%3D2023-09-03T06%3A48%3A06-20230903065230_0_VPTA52_010000.xml</id>
     <updated>2023-12-18T03:50:00+09:00</updated>
     <author>
       <name>気象庁</name>
     </author>
-    <link type="application/xml" href="https://www.gpvweather.com/jmaxml-view.php?k=%E5%8F%B0%E9%A2%A8%E3%81%AE%E6%9A%B4%E9%A2%A8%E5%9F%9F%E3%81%AB%E5%85%A5%E3%82%8B%E7%A2%BA%E7%8E%87&p=%E6%B0%97%E8%B1%A1%E5%BA%81&ym=2023-09&f=2023-09-03T06%3A48%3A06-20230903065230_0_VPTA52_010000.xml"/>
+    <link type="application/xml" href="https%3A%2F%2Fwww.gpvweather.com%2Fjmaxml-view.php%3Fk%3D%E5%8F%B0%E9%A2%A8%E3%81%AE%E6%9A%B4%E9%A2%A8%E5%9F%9F%E3%81%AB%E5%85%A5%E3%82%8B%E7%A2%BA%E7%8E%87%26p%3D%E6%B0%97%E8%B1%A1%E5%BA%81%26ym%3D2023-09%26f%3D2023-09-03T06%3A48%3A06-20230903065230_0_VPTA52_010000.xml"/>
     <content type="text"></content>
   </entry>
   <entry>
