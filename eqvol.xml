@@ -41,4 +41,14 @@
     <link type="application/xml" href="https://koppepam.github.io/disaster-info-data/IntensityReportL.xml"/>
     <content type="text">【震度速報】　１日１６時１０分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。</content>
   </entry>
+  <entry>
+    <title>震源に関する情報</title>
+    <id>https://koppepam.github.io/disaster-info-data/EpicenterInfo.xml</id>
+    <updated>2024-01-06T06:12:13Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://koppepam.github.io/disaster-info-data/EpicenterInfo.xml"/>
+    <content type="text">【震源に関する情報】きょう　６日１５時０９分ころ、地震がありました。</content>
+  </entry>
 </feed>
