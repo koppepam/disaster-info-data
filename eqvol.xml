@@ -62,6 +62,17 @@
     <content type="text">【震源に関する情報】きょう　６日１５時０９分ころ、地震がありました。</content>
   </entry>
   <entry>
+    <title>津波警報・注意報・予報a</title>
+    <id>https://koppepam.github.io/disaster-info-data/TsunamiAlarm.xml</id>
+    <updated>2024-01-01T07:22:32Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://koppepam.github.io/disaster-info-data/TsunamiAlarm.xml"/>
+    <content type="text">【大津波警報・津波警報・津波注意報・津波予報】大津波警報・津波警報に切り替えました。
+ただちに避難してください。</content>
+  </entry>
+  <entry>
     <title>長周期地震動に関する観測情報</title>
     <id>https://koppepam.github.io/disaster-info-data/LPGMInfo.xml</id>
     <updated>2024-01-01T07:23:36Z</updated>
