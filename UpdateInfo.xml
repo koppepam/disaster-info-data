@@ -1,37 +1,37 @@
 <Report xmlns="http://xml.kishou.go.jp/jmaxml1/" xmlns:jmx="http://xml.kishou.go.jp/jmaxml1/">
 <Control>
 <Title>顕著な地震の震源要素更新のお知らせ</Title>
-<DateTime>2024-01-05T22:30:19Z</DateTime>
+<DateTime>2024-01-06T16:30:23Z</DateTime>
 <Status>通常</Status>
 <EditorialOffice>気象庁本庁</EditorialOffice>
 <PublishingOffice>気象庁</PublishingOffice>
 </Control>
 <Head xmlns="http://xml.kishou.go.jp/jmaxml1/informationBasis1/">
 <Title>顕著な地震の震源要素更新のお知らせ</Title>
-<ReportDateTime>2024-01-06T07:30:00+09:00</ReportDateTime>
-<TargetDateTime>2024-01-06T07:30:00+09:00</TargetDateTime>
-<EventID>20240106052655</EventID>
+<ReportDateTime>2024-01-07T01:30:00+09:00</ReportDateTime>
+<TargetDateTime>2024-01-07T01:30:00+09:00</TargetDateTime>
+<EventID>20240106232024</EventID>
 <InfoType>発表</InfoType>
 <Serial/>
 <InfoKind>震源要素更新のお知らせ</InfoKind>
 <InfoKindVersion>1.0_0</InfoKindVersion>
 <Headline>
-<Text>令和　６年　１月　６日０７時３０分をもって、地震の発生場所と規模を更新します。</Text>
+<Text>令和　６年　１月　７日０１時３０分をもって、地震の発生場所と規模を更新します。</Text>
 </Headline>
 </Head>
 <Body xmlns="http://xml.kishou.go.jp/jmaxml1/body/seismology1/" xmlns:jmx_eb="http://xml.kishou.go.jp/jmaxml1/elementBasis1/">
 <Earthquake>
-<OriginTime>2024-01-06T05:26:00+09:00</OriginTime>
-<ArrivalTime>2024-01-06T05:26:00+09:00</ArrivalTime>
+<OriginTime>2024-01-06T23:20:00+09:00</OriginTime>
+<ArrivalTime>2024-01-06T23:20:00+09:00</ArrivalTime>
 <Hypocenter>
 <Area>
-<Name>石川県能登地方</Name>
-<Code type="震央地名">390</Code>
-<jmx_eb:Coordinate description="北緯３７．２度　東経１３６．８度　深さ　１０ｋｍ" datum="日本測地系">+37.2+136.8-10000/</jmx_eb:Coordinate>
-<jmx_eb:Coordinate type="震源位置（度分）" description="北緯３７度１３．０分　東経１３６度４９．９分　深さ　１２ｋｍ">+3713.0+13649.9-12000/</jmx_eb:Coordinate>
+<Name>能登半島沖</Name>
+<Code type="震央地名">495</Code>
+<jmx_eb:Coordinate description="北緯３７．２度　東経１３６．６度　深さ　１０ｋｍ" datum="日本測地系">+37.2+136.6-10000/</jmx_eb:Coordinate>
+<jmx_eb:Coordinate type="震源位置（度分）" description="北緯３７度１０．３分　東経１３６度３８．７分　深さ　　５ｋｍ">+3710.3+13638.7-5000/</jmx_eb:Coordinate>
 </Area>
 </Hypocenter>
-<jmx_eb:Magnitude type="Mj" description="Ｍ５．４">5.4</jmx_eb:Magnitude>
+<jmx_eb:Magnitude type="Mj" description="Ｍ４．３">4.3</jmx_eb:Magnitude>
 </Earthquake>
 <Comments>
 <FreeFormComment>度単位の震源要素は、津波情報等を引き続き発表する場合に使用されます。</FreeFormComment>
