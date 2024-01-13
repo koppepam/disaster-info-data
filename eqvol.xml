@@ -32,16 +32,6 @@
     <content type="text"></content>
   </entry>
   <entry>
-    <title>震度速報</title>
-    <id>https://koppepam.github.io/disaster-info-data/IntensityReportL.xml</id>
-    <updated>2024-01-01T07:14:56Z</updated>
-    <author>
-      <name>気象庁</name>
-    </author>
-    <link type="application/xml" href="https://koppepam.github.io/disaster-info-data/IntensityReportL.xml"/>
-    <content type="text">【震度速報】　１日１６時１０分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。</content>
-  </entry>
-  <entry>
     <title>震源・震度に関する情報</title>
     <id>https://www.data.jma.go.jp/developer/xml/data/20240106144602_0_VXSE53_010000.xml</id>
     <updated>2024-01-06T14:46:02Z</updated>
@@ -60,5 +50,25 @@
     </author>
     <link type="application/xml" href="https://koppepam.github.io/disaster-info-data/EpicenterInfo.xml"/>
     <content type="text">【震源に関する情報】きょう　６日１５時０９分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震源・震度に関する情報</title>
+    <id>https://www.data.jma.go.jp/developer/xml/data/20240101072429_0_VXSE53_010000.xml</id>
+    <updated>2024-01-01T07:24:29Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://www.data.jma.go.jp/developer/xml/data/20240101072429_0_VXSE53_010000.xml"/>
+    <content type="text">【震源・震度情報】　１日１６時１０分ころ、地震がありました。</content>
+  </entry>
+  <entry>
+    <title>震度速報</title>
+    <id>https://koppepam.github.io/disaster-info-data/IntensityReportL.xml</id>
+    <updated>2024-01-01T07:14:56Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://koppepam.github.io/disaster-info-data/IntensityReportL.xml"/>
+    <content type="text">【震度速報】　１日１６時１０分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。</content>
   </entry>
 </feed>
