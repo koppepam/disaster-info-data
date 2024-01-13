@@ -72,6 +72,16 @@
     <content type="text">津波注意報を解除しました。</content>
   </entry>
   <entry>
+    <title>震度速報</title>
+    <id>https://koppepam.github.io/disaster-info-data/IntensityReportS.xml</id>
+    <updated>2024-01-01T07:34:27Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://koppepam.github.io/disaster-info-data/IntensityReportS.xml"/>
+    <content type="text">【震度速報】　１日１６時３２分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。</content>
+  </entry>
+  <entry>
     <title>津波情報a</title>
     <id>https://koppepam.github.io/disaster-info-data/TsunamiInfo.xml</id>
     <updated>2024-01-01T07:29:01Z</updated>
