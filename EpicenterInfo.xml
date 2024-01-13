@@ -1,36 +1,36 @@
 <Report xmlns="http://xml.kishou.go.jp/jmaxml1/" xmlns:jmx="http://xml.kishou.go.jp/jmaxml1/">
 <Control>
 <Title>震源に関する情報</Title>
-<DateTime>2024-01-02T02:07:13Z</DateTime>
+<DateTime>2024-01-06T06:12:13Z</DateTime>
 <Status>通常</Status>
 <EditorialOffice>気象庁本庁</EditorialOffice>
 <PublishingOffice>気象庁</PublishingOffice>
 </Control>
 <Head xmlns="http://xml.kishou.go.jp/jmaxml1/informationBasis1/">
 <Title>震源に関する情報</Title>
-<ReportDateTime>2024-01-02T11:07:00+09:00</ReportDateTime>
-<TargetDateTime>2024-01-02T11:07:00+09:00</TargetDateTime>
-<EventID>20240102110357</EventID>
+<ReportDateTime>2024-01-06T15:12:00+09:00</ReportDateTime>
+<TargetDateTime>2024-01-06T15:12:00+09:00</TargetDateTime>
+<EventID>20240106150942</EventID>
 <InfoType>発表</InfoType>
 <Serial/>
 <InfoKind>震源速報</InfoKind>
 <InfoKindVersion>1.0_1</InfoKindVersion>
 <Headline>
-<Text>きょう　２日１１時０４分ころ、地震がありました。</Text>
+<Text>きょう　６日１５時０９分ころ、地震がありました。</Text>
 </Headline>
 </Head>
 <Body xmlns="http://xml.kishou.go.jp/jmaxml1/body/seismology1/" xmlns:jmx_eb="http://xml.kishou.go.jp/jmaxml1/elementBasis1/">
 <Earthquake>
-<OriginTime>2024-01-02T11:03:00+09:00</OriginTime>
-<ArrivalTime>2024-01-02T11:04:00+09:00</ArrivalTime>
+<OriginTime>2024-01-06T15:09:00+09:00</OriginTime>
+<ArrivalTime>2024-01-06T15:09:00+09:00</ArrivalTime>
 <Hypocenter>
 <Area>
 <Name>石川県能登地方</Name>
 <Code type="震央地名">390</Code>
-<jmx_eb:Coordinate description="北緯３７．２度　東経１３６．７度　ごく浅い" datum="日本測地系">+37.2+136.7+0/</jmx_eb:Coordinate>
+<jmx_eb:Coordinate description="北緯３７．５度　東経１３７．２度　深さ　１０ｋｍ" datum="日本測地系">+37.5+137.2-10000/</jmx_eb:Coordinate>
 </Area>
 </Hypocenter>
-<jmx_eb:Magnitude type="Mj" description="Ｍ３．７">3.7</jmx_eb:Magnitude>
+<jmx_eb:Magnitude type="Mj" description="Ｍ３．６">3.6</jmx_eb:Magnitude>
 </Earthquake>
 <Comments>
 <ForecastComment codeType="固定付加文">
