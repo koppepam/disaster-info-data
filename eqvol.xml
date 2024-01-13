@@ -63,6 +63,16 @@
   </entry>
   <entry>
     <title>津波警報・注意報・予報a</title>
+    <id>https://koppepam.github.io/disaster-info-data/canceledTsunamiAlarm.xml</id>
+    <updated>2024-01-02T10:00:00+09:00</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://koppepam.github.io/disaster-info-data/canceledTsunamiAlarm.xml"/>
+    <content type="text">津波注意報を解除しました。</content>
+  </entry>
+  <entry>
+    <title>津波警報・注意報・予報a</title>
     <id>https://koppepam.github.io/disaster-info-data/TsunamiAlarm.xml</id>
     <updated>2024-01-01T07:22:32Z</updated>
     <author>
