@@ -72,6 +72,16 @@
     <content type="text">津波注意報を解除しました。</content>
   </entry>
   <entry>
+    <title>津波情報a</title>
+    <id>https://koppepam.github.io/disaster-info-data/TsunamiInfo.xml</id>
+    <updated>2024-01-01T07:29:01Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://koppepam.github.io/disaster-info-data/TsunamiInfo.xml"/>
+    <content type="text">【津波観測に関する情報】　１日１６時２７分現在の、津波の観測値をお知らせします。</content>
+  </entry>
+  <entry>
     <title>津波警報・注意報・予報a</title>
     <id>https://koppepam.github.io/disaster-info-data/TsunamiAlarm.xml</id>
     <updated>2024-01-01T07:22:32Z</updated>
