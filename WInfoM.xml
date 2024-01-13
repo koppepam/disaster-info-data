@@ -1,36 +1,36 @@
 <Report xmlns="http://xml.kishou.go.jp/jmaxml1/" xmlns:jmx="http://xml.kishou.go.jp/jmaxml1/">
 <Control>
 <Title>震源・震度に関する情報</Title>
-<DateTime>2024-01-02T02:44:56Z</DateTime>
+<DateTime>2024-01-06T14:46:02Z</DateTime>
 <Status>通常</Status>
 <EditorialOffice>気象庁本庁</EditorialOffice>
 <PublishingOffice>気象庁</PublishingOffice>
 </Control>
 <Head xmlns="http://xml.kishou.go.jp/jmaxml1/informationBasis1/">
 <Title>震源・震度情報</Title>
-<ReportDateTime>2024-01-02T11:44:00+09:00</ReportDateTime>
-<TargetDateTime>2024-01-02T11:44:00+09:00</TargetDateTime>
-<EventID>20240102114200</EventID>
+<ReportDateTime>2024-01-06T23:46:00+09:00</ReportDateTime>
+<TargetDateTime>2024-01-06T23:46:00+09:00</TargetDateTime>
+<EventID>20240106234325</EventID>
 <InfoType>発表</InfoType>
 <Serial>1</Serial>
 <InfoKind>地震情報</InfoKind>
 <InfoKindVersion>1.0_1</InfoKindVersion>
 <Headline>
-<Text>　２日１１時４２分ころ、地震がありました。</Text>
+<Text>　６日２３時４３分ころ、地震がありました。</Text>
 </Headline>
 </Head>
 <Body xmlns="http://xml.kishou.go.jp/jmaxml1/body/seismology1/" xmlns:jmx_eb="http://xml.kishou.go.jp/jmaxml1/elementBasis1/">
 <Earthquake>
-<OriginTime>2024-01-02T11:41:00+09:00</OriginTime>
-<ArrivalTime>2024-01-02T11:42:00+09:00</ArrivalTime>
+<OriginTime>2024-01-06T23:43:00+09:00</OriginTime>
+<ArrivalTime>2024-01-06T23:43:00+09:00</ArrivalTime>
 <Hypocenter>
 <Area>
-<Name>能登半島沖</Name>
-<Code type="震央地名">495</Code>
-<jmx_eb:Coordinate description="北緯３７．５度　東経１３７．１度　深さ　２０ｋｍ" datum="日本測地系">+37.5+137.1-20000/</jmx_eb:Coordinate>
+<Name>新潟県上中越沖</Name>
+<Code type="震央地名">379</Code>
+<jmx_eb:Coordinate description="北緯３７．１度　東経１３７．７度　深さ　１０ｋｍ" datum="日本測地系">+37.1+137.7-10000/</jmx_eb:Coordinate>
 </Area>
 </Hypocenter>
-<jmx_eb:Magnitude type="Mj" description="Ｍ３．７">3.7</jmx_eb:Magnitude>
+<jmx_eb:Magnitude type="Mj" description="Ｍ３．３">3.3</jmx_eb:Magnitude>
 </Earthquake>
 <Intensity>
 <Observation>
@@ -42,65 +42,30 @@
 </CodeDefine>
 <MaxInt>2</MaxInt>
 <Pref>
-<Name>石川県</Name>
-<Code>17</Code>
+<Name>新潟県</Name>
+<Code>15</Code>
 <MaxInt>2</MaxInt>
 <Area>
-<Name>石川県能登</Name>
-<Code>390</Code>
+<Name>新潟県上越</Name>
+<Code>370</Code>
 <MaxInt>2</MaxInt>
 <City>
-<Name>珠洲市</Name>
-<Code>1720500</Code>
+<Name>糸魚川市</Name>
+<Code>1521600</Code>
 <MaxInt>2</MaxInt>
 <IntensityStation>
-<Name>珠洲市大谷町＊</Name>
-<Code>1720521</Code>
+<Name>糸魚川市大野＊</Name>
+<Code>1521620</Code>
 <Int>2</Int>
 </IntensityStation>
 <IntensityStation>
-<Name>珠洲市正院町＊</Name>
-<Code>1720520</Code>
-<Int>1</Int>
-</IntensityStation>
-</City>
-<City>
-<Name>七尾市</Name>
-<Code>1720200</Code>
-<MaxInt>1</MaxInt>
-<IntensityStation>
-<Name>七尾市本府中町</Name>
-<Code>1720200</Code>
-<Int>1</Int>
+<Name>糸魚川市青海＊</Name>
+<Code>1521632</Code>
+<Int>2</Int>
 </IntensityStation>
 <IntensityStation>
-<Name>七尾市能登島向田町＊</Name>
-<Code>1720237</Code>
-<Int>1</Int>
-</IntensityStation>
-</City>
-<City>
-<Name>輪島市</Name>
-<Code>1720400</Code>
-<MaxInt>1</MaxInt>
-<IntensityStation>
-<Name>輪島市鳳至町</Name>
-<Code>1720402</Code>
-<Int>1</Int>
-</IntensityStation>
-<IntensityStation>
-<Name>輪島市河井町＊</Name>
-<Code>1720420</Code>
-<Int>1</Int>
-</IntensityStation>
-</City>
-<City>
-<Name>能登町</Name>
-<Code>1746300</Code>
-<MaxInt>1</MaxInt>
-<IntensityStation>
-<Name>能登町宇出津</Name>
-<Code>1746301</Code>
+<Name>糸魚川市一の宮</Name>
+<Code>1521600</Code>
 <Int>1</Int>
 </IntensityStation>
 </City>
@@ -117,7 +82,6 @@
 <Text>＊印は気象庁以外の震度観測点についての情報です。</Text>
 <Code>0262</Code>
 </VarComment>
-<FreeFormComment>なお、この海域は、1日16時10分に発生した石川県能登地方の地震により、今後もしばらく海面変動が続くと思われますので、海水浴や海釣り等を行う際は十分注意してください。</FreeFormComment>
 </Comments>
 </Body>
 </Report>
