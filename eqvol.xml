@@ -62,6 +62,19 @@
     <content type="text">【震源に関する情報】きょう　６日１５時０９分ころ、地震がありました。</content>
   </entry>
   <entry>
+    <title>長周期地震動に関する観測情報</title>
+    <id>https://koppepam.github.io/disaster-info-data/LPGMInfo.xml</id>
+    <updated>2024-01-01T07:23:36Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://koppepam.github.io/disaster-info-data/LPGMInfo.xml"/>
+    <content type="text">【長周期地震動に関する観測情報】０１日１６時１０分ころの地震により、長周期地震動階級４を観測した地域があります。
+以下の地域では、最大震度は４以下でしたが、大きな長周期地震動階級（階級３以上）を観測しています。
+高層ビル高層階では非常に大きな揺れとなっていた可能性があります。
+長野県中部</content>
+  </entry>
+  <entry>
     <title>震源・震度に関する情報</title>
     <id>https://koppepam.github.io/disaster-info-data/WInfoL.xml</id>
     <updated>2024-01-01T07:24:29Z</updated>
