@@ -32,6 +32,16 @@
     <content type="text"></content>
   </entry>
   <entry>
+    <title>顕著な地震の震源要素更新のお知らせ</title>
+    <id>https://koppepam.github.io/disaster-info-data/UpdateInfo.xml</id>
+    <updated>2024-01-06T16:30:23Z</updated>
+    <author>
+      <name>気象庁</name>
+    </author>
+    <link type="application/xml" href="https://koppepam.github.io/disaster-info-data/UpdateInfo.xml"/>
+    <content type="text">【顕著な地震の震源要素更新のお知らせ】令和　６年　１月　７日０１時３０分をもって、地震の発生場所と規模を更新します。</content>
+  </entry>
+  <entry>
     <title>震源・震度に関する情報</title>
     <id>https://www.data.jma.go.jp/developer/xml/data/20240106144602_0_VXSE53_010000.xml</id>
     <updated>2024-01-06T14:46:02Z</updated>
